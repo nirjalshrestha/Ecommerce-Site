@@ -3,6 +3,7 @@
     <script>$('#lfm').filemanager('image');</script>
     <script>$('#lfm2').filemanager('image');</script>
 
+
 @stop
 
 @section('content')
