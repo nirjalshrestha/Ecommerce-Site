@@ -15,7 +15,7 @@
         <!-- /.box-header -->
         <div class="box-body">
             <form role="form" method="post" action="{{route('category.store')}}">
-            @csrf
+                @csrf
             <!-- text input -->
                 <div class="form-group">
                     <label>Title</label>
