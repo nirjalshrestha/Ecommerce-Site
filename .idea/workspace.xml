@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="089b0e70-7dc7-46a9-a1d7-19ebd8fedb07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Category/create_category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Category/create_category.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/User/category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/User/category.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="089b0e70-7dc7-46a9-a1d7-19ebd8fedb07" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,15 +374,15 @@
       <workItem from="1552228746956" duration="11169000" />
       <workItem from="1552369656702" duration="5187000" />
       <workItem from="1552492372317" duration="402000" />
-      <workItem from="1552573519075" duration="7229000" />
+      <workItem from="1552573519075" duration="7829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64105000" />
+    <option name="totallyTimeSpent" value="64705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
